@@ -1,0 +1,20 @@
+{
+  "name": "static-web-apps-custom-functions",
+  "version": "0.0.1",
+  "description": "Volunteer Signup: An Azure Static Web Apps front-end",
+  "main": "index.html",
+  "scripts": {
+    "build": "",
+    "start": "swa start --api=http://localhost:7071"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/craigshoemaker/static-web-apps-custom-functions.git"
+  },
+  "author": "Craig Shoemaker <craig@craigshoemaker.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/craigshoemaker/static-web-apps-custom-functions/issues"
+  },
+  "homepage": "https://github.com/craigshoemaker/static-web-apps-custom-functions#readme"
+}
